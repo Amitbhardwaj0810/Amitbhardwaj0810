@@ -2,7 +2,7 @@
 <h1 align="center">Hi, 👋 I'm Amit Kumar</h1>
 <h3 align="center">A passionate coder</h3> 
 <img align= "right" alt="Coding" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGszbjk3aWVsYjM5ZzhiNjR3cGNpbmd5emR2ZXVjMTltMGw4Nmc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.webp">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anant-strong&label=Profile%20views&color=0e75b6&style=flat" alt="Amit08" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amitbhardwaj08&style=flat&color=blue" alt="Amitbhardwaj08"/> </p>
 <p align="left"> <a href="https://x.com/AmitBhardwaj_08" target="blank"><img src="https://img.shields.io/twitter/follow/AmitBhardwaj_08?logowitter&style=for-the-badge" alt="Amit08" /></a> </p>
 
 - 🔗 Proficient in **C and C++** for developing software solutions using efficient algorithms.
@@ -35,3 +35,21 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
 </p>
+
+
+</div>
+
+---
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Amitbhardwaj08&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Amitbhardwaj08&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amitbhardwaj08&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
