@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, 👋 I'm Amit Kumar</h1>
 <h3 align="center">A passionate coder</h3> 
-<img align= "right" alt="Coding" width="500" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGszbjk3aWVsYjM5ZzhiNjR3cGNpbmd5emR2ZXVjMTltMGw4Nmc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.webp">
+<img align= "right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGszbjk3aWVsYjM5ZzhiNjR3cGNpbmd5emR2ZXVjMTltMGw4Nmc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amitbhardwaj08&style=flat&color=blue" alt="Amitbhardwaj08"/> </p>
 <p align="left"> <a href="https://x.com/AmitBhardwaj_08" target="blank"><img src="https://img.shields.io/twitter/follow/AmitBhardwaj_08?logowitter&style=for-the-badge&color=blue" alt="Amit08" /></a> </p>
 
