@@ -4,9 +4,9 @@
 <img align= "right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGszbjk3aWVsYjM5ZzhiNjR3cGNpbmd5emR2ZXVjMTltMGw4Nmc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amitbhardwaj08&style=flat&color=blue" alt="Amitbhardwaj08"/> </p>
 
-- 🔗 Proficient in **C and C++** for developing software solutions using efficient algorithms.
+- 🔗 Aspiring Analog VLSI Engineer with expertise in analog circuit design, simulation, and layout verification using Cadence Virtuoso
 
-- 🎯 Currently mastering **Machine Learning techniques and tools**.
+- 🎯 Proficient in **C and C++** for developing software solutions using efficient algorithms.
 
 - 🧿 Continuously learning and exploring new technologies in the VLSI domain.
 
@@ -33,6 +33,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+
+<img src="https://spiceman.net/wp-content/uploads/2021/09/ltspice.jpg" alt="arduino" width="70" height="40"/>
+<img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2019/03/Cadence_Logo_2Rev_Reg.5c9e2419b7657.png" alt="cadence" width="90" height="40"/>
 </p>
 
 
