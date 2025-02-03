@@ -33,11 +33,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
-
 <img src="https://spiceman.net/wp-content/uploads/2021/09/ltspice.jpg" alt="arduino" width="70" height="40"/>
 <img src="https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2019/03/Cadence_Logo_2Rev_Reg.5c9e2419b7657.png" alt="cadence" width="90" height="40"/>
 </p>
-
 
 </div>
 
