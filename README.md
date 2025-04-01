@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, 👋 I'm Amit Kumar</h1>
-<h3 align="center">An Analog Layout engineer who codes occasionally</h3> 
+<h3 align="center">An Analog engineer who codes occasionally</h3> 
 <img align= "right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGszbjk3aWVsYjM5ZzhiNjR3cGNpbmd5emR2ZXVjMTltMGw4Nmc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amitbhardwaj08&style=flat&color=blue" alt="Amitbhardwaj08"/> </p>
 
