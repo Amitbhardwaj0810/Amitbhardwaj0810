@@ -10,7 +10,7 @@
 
 - 🧿 Continuously learning and exploring new technologies in the VLSI domain.
 
-- 📫 Reach me at  **amitsuthar0823@gmail.com**
+- 📫 Reach me at  **amit.r.kumar810@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
